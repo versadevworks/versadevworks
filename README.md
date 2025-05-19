@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="logo1_compressed.png" width="120" align="right" />
 
-<!--
-**versadevworks/versadevworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# VersaDev  
+**Developer focused on clean code, smart automation, and system-level problem solving.**
 
-Here are some ideas to get you started:
+> I’m passionate about making technology lighter, simpler, and more efficient.  
+> This space is where I share my tools, experiments, and ideas — from terminal scripts to full Linux setups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Projects & Focus Areas  
+- ⚙️ Bash and shell-based automation tools  
+- 📦 Lightweight local-first apps  
+- 🔐 Secure Linux system setups  
+- 🧰 Developer utilities and script packs  
+
+---
+
+📫 **contact.universaldevworks@gmail.com**
